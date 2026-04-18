@@ -28,6 +28,13 @@ It uses AWS services to handle requests without managing servers.
 
 ---
 
+
+## 🧩 Architecture Diagram
+
+![Architecture](screenshots/basic_diagram.jpg)
+
+---
+
 ## 🔗 API Endpoint
 
 ```
